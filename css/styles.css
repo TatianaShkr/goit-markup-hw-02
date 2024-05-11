@@ -96,11 +96,11 @@ ul {
   letter-spacing: 0.04em;
 }
 
-.botton:hover {
+.button:hover {
   background-color: #404BBF;
 }
 
-.botton:focus {
+.button:focus {
   background-color: #404BBF;
 }
 
@@ -141,6 +141,7 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .name-title {
