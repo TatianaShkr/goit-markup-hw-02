@@ -67,6 +67,14 @@ ul {
   color: #404BBF;
 }
 
+.adress-title:hover {
+  color: #404BBF;
+}
+
+.adress-title:focus {
+  color: #404BBF;
+}
+
 .adress {
   font-style: normal;
 }
